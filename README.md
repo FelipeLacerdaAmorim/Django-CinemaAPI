@@ -2,7 +2,7 @@
 
 ## Comandos para executar
 
-docker-compose build
+docker-compose build <br>
 docker-compose up
 
 ## App-Swagger-Url
